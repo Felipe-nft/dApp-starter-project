@@ -193,6 +193,9 @@ const App = () => {
             👋
           </span>{" "}
           WELCOME!
+          <span role="img" aria-label="hand-wave">
+            👋
+          </span>{" "}
         </div>
         <div className="bio">
           イーサリアムウォレットを接続して、メッセージを作成したら、
